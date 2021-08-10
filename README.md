@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tiyasha 
-  I am currently in my 2nd yr, pursuing computer engineering B.tech degree from SRM university
+  I am currently in my 3nd yr, pursuing computer engineering B.tech degree from SRM university
 - 👀 I’m interested in making content, WEB DEVELOPMENT and APP DEVELOPMENT
 - 🌱 I’m currently learning HTML,CSS,JAVASCIPT and looking forward to learn APP DEVELOPEMENT in my upcoming days
 - 💞️ I’m looking to collaborate on IT companies
